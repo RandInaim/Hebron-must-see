@@ -42,6 +42,12 @@ Our website is a tourist guide for Hebron. It provides some services for Hebron 
 4. create database.
 5. Run `npm start` in terminal to run the website.
 
+# Enviroment variables list:
+  - DATABASE_URL
+  - SECRET
+  - [FORVO_KEY](https://api.forvo.com/) 
+
+
 # Team:
 
 - [Nadeen](https://github.com/Nadeen123)
